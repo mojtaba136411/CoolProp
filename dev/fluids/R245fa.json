@@ -200,7 +200,7 @@
           "smolar_units": "J/mol/K"
         },
         "reducing": {
-          "T": 427.01,
+          "T": 426.95,
           "T_units": "K",
           "hmolar": 61638.84372616045,
           "hmolar_units": "J/mol",
@@ -408,7 +408,7 @@
           "smolar_units": "J/mol/K"
         },
         "reducing": {
-          "T": 427.16,
+          "T": 426.95,
           "T_units": "K",
           "hmolar": 61714.43989060414,
           "hmolar_units": "J/mol",
